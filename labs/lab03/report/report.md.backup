@@ -85,7 +85,7 @@ git с различными опциями.
 github, настроим utf-8 в выводе сообщений git. Зададим имя начальной ветки
 (master), параметры autocrlf и safecrlf. Далее сгенерируем SSH ключ.
 
-![1](https://sun9-81.userapi.com/impg/2t8h_tALJsohu68ZWmkw1-yqpdPXlJ_lXcIuHQ/TD6dvtwfJWo.jpg?size=1058x662&quality=96&sign=bd12e0d7ea08c03e4805eb6e3fa62995&type=album)
+![1](https://sun9-81.userapi.com/impg/2t8h_tALJsohu68ZWmkw1-yqpdPXlJ_lXcIuHQ/TD6dvtwfJWo.jpg?size=1058x662&quality=96&sign=bd12e0d7ea08c03e4805eb6e3fa62995&type=album){ #fig:001 width=70% }
 
 Введем созданный SSH ключ в настройках пользователя github в разделе SSH and
 GPG keys:
@@ -116,4 +116,8 @@ git@github.com:<user_name>/study_2022–2023_arh-pc.git в папку arch-pc
 ![9](https://sun9-77.userapi.com/impg/G-pyL4BSDUNdA99eeyedzXIajUYQXEy1o8eh4w/MG_fH6sp8a4.jpg?size=635x585&quality=96&sign=ddf469b9072e8a9606a4a0bb989bf46e&type=album)
 # Выводы
 
-В результате работы мы изучили идеологии и git. Также приобрели практические навыки по работе с git.
+В результате работы мы изучили идеологии и git. Также приобрели практические навык
+# Список литературы{.unnumbered}
+
+::: {#refs}
+:::
